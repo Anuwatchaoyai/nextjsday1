@@ -1,5 +1,6 @@
 html,
 body {
+  background-color: darkseagreen;
   padding: 0;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
@@ -13,4 +14,10 @@ a {
 
 * {
   box-sizing: border-box;
+}
+
+
+.mytitle{
+  font-size: 20px;
+  color: orange;
 }
